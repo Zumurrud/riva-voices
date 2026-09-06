@@ -1,0 +1,1 @@
+For whatever reason, the actual filenames in the asset bundle call these files ".wav".  They were nevertheless Vorbis.  I decided to change the extensions rather than requiring a special case for JP Pith.
