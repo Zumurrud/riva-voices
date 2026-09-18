@@ -1,2 +1,1 @@
-# PLACEHOLDER
-The original KR VA for Pramanix was replaced when Pram alter was released.  I do not have the original voice files.
+CN_043 is blank in [the source used](https://github.com/PseudoMon/arknights-audio).  It's possible that this VA never recorded a birthday line before being replaced.  Not sure though.
